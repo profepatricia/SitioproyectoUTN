@@ -1,0 +1,22 @@
+header{
+    background-color: blue;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+
+nav span{
+    height: 20px;
+    width: 100px;
+    background-color: violet;
+
+}
+
+
+footer{
+    background-color: grey;
+}
+
+.textobienvenida{
+    display: flex;
+}
